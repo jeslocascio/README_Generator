@@ -34,7 +34,8 @@
   This project is licensed under the terms of the **[MIT License](https://opensource.org/licenses/MIT)**
   
   ## Contribution
-  N/A
+  
+Rutgers Fullstack Flex Coding Bootcamp provided the starter code
 
   ## Tests
   N/A
