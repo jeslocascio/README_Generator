@@ -42,7 +42,7 @@ const questions = [
         message: 'What license would you like to use?',
         choices: [
             "MIT License",
-            "BSD 3-CLause License",
+            "BSD 3-Clause License",
             "GPLv3 License",
             "Apache 2.0",
         ],
